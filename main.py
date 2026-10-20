@@ -1,3 +1,4 @@
+#rodrigo
 monto_total = 0.0
 caja_abierta = True 
 
